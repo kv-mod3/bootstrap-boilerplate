@@ -1,7 +1,7 @@
 # bootstrap-boilerplate
 
 ## Description
-Bootstrap starter template
+Bootstrap boilerplate
 
 ## Prerequisites
 Download Bootstrap 4.5
