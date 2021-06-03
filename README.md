@@ -1,7 +1,7 @@
 # bootstrap-boilerplate
 
 ## Description
-Bootstrap boilerplate
+Bootstrap Boilerplate Template
 
 ## Prerequisites
 Download Bootstrap 4.5
@@ -22,4 +22,4 @@ GPL
 None
 
 ## CSS
-[Look at my cool CSS](./css/style.css)
+[Look at my CSS](./css/style.css)
